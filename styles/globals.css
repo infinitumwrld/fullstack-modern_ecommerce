@@ -434,11 +434,12 @@ padding: 30px 65px;
 .btn {
   text-transform: uppercase;
   border-radius: 8px;
+  margin: 2rem;
   cursor: pointer;
   height: 80px;
   width: 200px;
   letter-spacing: 0.2em;
-  padding: 10px 30px;
+  padding: 20px 30px;
   transition: 0.5s;
   position: relative;
   font-size: 17px;

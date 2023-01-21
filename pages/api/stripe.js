@@ -36,8 +36,8 @@ export default async function handler(req, res) {
                         quantity: item.quantity
                     }
                 }),
-                success_url: `${req.headers.origin}/?success`,
-                cancel_url: `${req.headers.origin}/?canceled`,
+                success_url: `${req.headers.origin}/success`,
+                cancel_url: `${req.headers.origin}/canceled`,
               }
 
             // Create Checkout Sessions from body params.

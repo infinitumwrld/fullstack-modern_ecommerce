@@ -1,3 +1,7 @@
+# Full-Stack Ecommerce Website
+
+## This full-stack website is perfect and scalable for any business. It's fast, simple and precise.
+
 -Sanity.io is a headless CMS (content management system) that allows you to manage your website's content (such as products, categories, and pages) in a user-friendly interface. It also provides a flexible, customizable schema that can adapt to the specific needs of your ecommerce website.
 
 -Stripe is a payment processing platform that enables you to accept online payments from customers. You can use it to handle transactions, subscriptions, and other types of payments.

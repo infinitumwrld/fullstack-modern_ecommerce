@@ -10,3 +10,4 @@
 -Next.js is a JavaScript framework that allows you to build server-rendered React applications. It makes it easy to set up a development environment and provides features such as automatic code splitting and server-side rendering.
 
 Together, these technologies work together to create a full-featured ecommerce website that allows you to manage your content easily, accept payments securely, and deliver a fast and responsive user experience.
+![ecommerce](https://user-images.githubusercontent.com/103978285/216804119-4d7eb695-f0e2-4852-b0da-93ed8cda47a0.png)
